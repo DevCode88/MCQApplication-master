@@ -6,7 +6,7 @@ MCQApplication is simple MCQ desktop application build using javafx.
 
 - Better ui/ux
 - Timer for question
-- Fullscreen mode
+- Responsive screen
 - Cross platform
 
 
